@@ -7,6 +7,11 @@ Surge Triage merges duplicate calls into incidents by place, time and content, t
 
 Built in 45 minutes at the **Plug and Play x PMAI Hackathon: Rapid Response** (#AIWeekNY, Civic Hall, NYC, Oct 7 2026).
 
+
+![Surge Triage dashboard](Screenshot%202026-10-07%20at%207.30.37%E2%80%AFPM.png)
+
+
+▶️ [Watch the demo on YouTube](https://youtu.be/9Z6D6FD1F6E)
 ## Demo
 
 With the sample surge (an East Village apartment fire, a car crash, shots fired and unrelated calls):
