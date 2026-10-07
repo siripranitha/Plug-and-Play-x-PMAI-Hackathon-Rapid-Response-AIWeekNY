@@ -118,3 +118,9 @@ This creates a system where **official sources establish truth, while public sig
 
 <img width="512" height="275" alt="nyc-monitoring" src="https://github.com/user-attachments/assets/53d31420-c7b7-47cf-8b9a-1071eecb5b16" />
 
+Operator view of the application:
+<img width="1768" height="932" alt="image" src="https://github.com/user-attachments/assets/f1364aa0-a416-4c7c-be02-9e68b325e095" />
+
+User view of the application:
+<img width="1768" height="2677" alt="image" src="https://github.com/user-attachments/assets/ed74267a-1750-4b6f-839a-a431208429c5" />
+
