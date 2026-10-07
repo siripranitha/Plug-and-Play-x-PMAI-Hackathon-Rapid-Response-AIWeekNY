@@ -115,8 +115,7 @@ The critical distinction is that **social media should be a supporting signal, n
 - **Social signals:** Useful for detecting emerging incidents, crowd sentiment, or potential disruptions, but should be validated before triggering high-impact operational actions.
 
 This creates a system where **official sources establish truth, while public signals improve detection speed**.
-
-
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/13b090b4-b07c-4205-a8e9-566ed5c2eb18" />
 
 Operator view of the application:
 <img width="1768" height="932" alt="image" src="https://github.com/user-attachments/assets/f1364aa0-a416-4c7c-be02-9e68b325e095" />
