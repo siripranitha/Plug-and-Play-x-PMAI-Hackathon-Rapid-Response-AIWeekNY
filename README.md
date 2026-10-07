@@ -122,3 +122,12 @@
 - 📝 **Respond to reviews** about the outage
 - 🛡️ **Fix the root cause**: daily export of bookings, own guest contact data
 - 📄 **Claim SLA credits** from Resy
+
+### Screenshots from restuarant operator perspective - single source of truth after resy is down
+<img width="1768" height="2125" alt="Screenshot 2026-10-07 at 18-37-03 Tonight&#39;s book" src="https://github.com/user-attachments/assets/ed7eb83c-ad01-4262-a6f8-294ec8047d9d" />
+
+### Any changes can be made only after the decision maker is selected
+<img width="1768" height="2157" alt="Screenshot 2026-10-07 at 18-39-19 Tonight&#39;s book" src="https://github.com/user-attachments/assets/d929d5d9-ed1e-4b52-b5cf-00590586f1db" />
+
+
+
